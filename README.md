@@ -1,4 +1,4 @@
-# tutorial-ml-bankmarketing
+# 銀行定期預金の見込み顧客を予測
 正答率９０%を目指そう
 
 ## dataset
